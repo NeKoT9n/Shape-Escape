@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41f7cfdc9da13c9428e56b002b96cbe2, type: 3}
+  m_Name: DragData
+  m_EditorClassIdentifier: Assembly-CSharp::Assets._Shape_Escape.Scripts.Scenes.Game.GameLogic.Cursor.Model.Drag.DragData
+  _maxForce: 1000
+  _dampingRatio: 0.8
+  _frequency: 8
+  _gravityScaleDuringDrag: 0.2
+  _angularDragDuringDrag: 10
+  _throwForceMultiplier: 0.35
+  _maxThrowSpeed: 25
+  _mouseVelocitySmoothing: 0.5
+  _restoreGravityScale: 1
+  _restoreAngularDrag: 0.05

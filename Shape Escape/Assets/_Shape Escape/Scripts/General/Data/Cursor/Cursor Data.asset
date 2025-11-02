@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b27f58a2b4ceb8847ba52566b95d62e5, type: 3}
+  m_Name: Cursor Data
+  m_EditorClassIdentifier: Assembly-CSharp::Assets._Shape_Escape.Scripts.Scenes.Game.GameLogic.Cursor.Data.CursorData
+  _startTeam: 0
+  _defualt: {fileID: -7729686070233647316, guid: 30da11d9d187ff14183aa5649540c82e, type: 3}
+  _hover: {fileID: -1964185573855227484, guid: 5ae139c6562399c46ba5280db66af042, type: 3}
+  _clicked: {fileID: -3892056355127499136, guid: cf3e52ba30001fe42916c48624009558, type: 3}

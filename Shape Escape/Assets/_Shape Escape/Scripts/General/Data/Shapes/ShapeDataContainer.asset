@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb693a9216d2e704ea070d8d8ef70091, type: 3}
+  m_Name: ShapeDataContainer
+  m_EditorClassIdentifier: Assembly-CSharp::Assets._Shape_Escape.Scripts.Scenes.Game.GameLogic.Shape.Data.ShapeDataContainer
+  _shapeDatas:
+  - {fileID: 11400000, guid: aae5151fa50d4f741960355b62bea50c, type: 2}
+  - {fileID: 11400000, guid: 6defd4f37af9f9c4f8c6e7ade305cce0, type: 2}
+  - {fileID: 11400000, guid: c42117b59a9124d4b903dc2e965d54ee, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25d467f0de4aabc40ac5cb07840d8b8d, type: 3}
+  m_Name: Prefabs
+  m_EditorClassIdentifier: Assembly-CSharp::Assets._Shape_Escape.Scripts.Scenes.Game.GameLogic.Shape.Data.ShapeAssetReferenceContainer
+  _shapes:
+  - {fileID: 11400000, guid: 5015968fe1b0f204ba9b3630bb40f1f7, type: 2}
+  - {fileID: 11400000, guid: d4c5e2f3981fb0f4da742c257b4f026e, type: 2}
+  - {fileID: 11400000, guid: 967a97c12516e4c4b9ae0f0597ed78d4, type: 2}

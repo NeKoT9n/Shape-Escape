@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb0bb4d210947c04ea0449bccc43b88d, type: 3}
+  m_Name: ScriptableObjectProvider
+  m_EditorClassIdentifier: Assembly-CSharp::Assets._Shape_Escape.Scripts.Addressable.Providers.ScriptableObjectProvider
+  _cursorData:
+    m_AssetGUID: 8ddc222a874f63b4b9f4781c437cd2e0
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  _teamsData:
+    m_AssetGUID: 9450588b1f0fb064190c728bf2e71ad0
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  _dragData:
+    m_AssetGUID: 65c8a852c9a3dc34789e1ad9dcb30e91
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  _shapeDatas:
+    m_AssetGUID: 66c2ee9c8dcdef046bad98bb03aa484a
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
